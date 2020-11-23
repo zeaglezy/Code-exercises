@@ -1,0 +1,7 @@
+com\example\demo\DemoApplication.class
+com\example\demo\dao\LoginSettingDao.class
+com\example\demo\service\LoginSettingService.class
+com\example\demo\SwaggerConfig.class
+com\example\demo\service\Impl\LoginSettingServiceImpl.class
+com\example\demo\domain\LoginSettingSummary.class
+com\example\demo\controller\LoginController.class
